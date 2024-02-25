@@ -1,0 +1,11 @@
+div {
+    margin-top: 12px;
+}
+
+select {
+    width: 75px;
+}
+
+#result {
+    white-space: pre-wrap;
+}
